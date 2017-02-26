@@ -1,0 +1,25 @@
+Git Commands for starters. 
+
+(In Cmd prompt) 
+
+cd (Folder name) - Enters folder in that directory. 
+cd .. - Goes back a directory. Example: C:/users/documents goes back a directory to C:/users.
+
+Git Commands
+____________
+
+git status -- Shows what's different between git hub server and your computer.
+
+git add (file/folder name) -- Adds changes made in file to git hub.
+
+git commit -m "Message of change" -- Confirm that change should be added to git hub project.
+
+git push -- Pushes changes to git hub project. "Pushing the update of files", 
+
+git pull -- Recieves any new updated files in git hub project. 
+
+git add . (or) git add -A -- Adds changes made to all files in directory.
+
+esc key, :wq -- When commiting a merge conflicted file, type this to confirm your changes over the other persons.
+
+git -- Shows git cmds. 
